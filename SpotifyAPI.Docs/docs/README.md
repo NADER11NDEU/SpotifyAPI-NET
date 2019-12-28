@@ -57,3 +57,6 @@ Install-Package SpotifyAPI.Web.Auth
 ### [Spotify Oculus](https://github.com/CaptainMorgs/spotify-oculus-release) by [@CaptainMorgs](https://github.com/CaptainMorgs)
 
 > Unity project for interacting with Spotify in virtual reality for the Oculus Rift.
+
+### [Spotify Arduino Project v1.0](https://github.com/NADER11NDEU/ARDUINO-Spotify-Remote-Control) by [@NADER11NDEU](https://github.com/NADER11NDEU)
+> Control Spotify with Arduino and C# interface.
